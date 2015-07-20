@@ -1,4 +1,4 @@
-FROM deloitteva/tomcat:8.0.23
+FROM deloitteva/docker-tomcat:8.0.23
 MAINTAINER Kun Yue<KunYue96@gmail.com>
 
 # ##################
